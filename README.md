@@ -16,20 +16,3 @@
 
   
 </div>
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. ✨ [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-ur PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/resumind-courses" target="_blank">
-  <img src="public/readme/jsmpro.webp" alt="Project Banner">
-</a>
-# ai-resume-analyser
-# ai-resume-analyser
